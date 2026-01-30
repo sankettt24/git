@@ -1,1 +1,1 @@
-location = goa
+location = mumbai
